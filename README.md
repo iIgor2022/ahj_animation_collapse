@@ -1,3 +1,3 @@
 ## Animtion. Collapse
-GitHub Pages https://github.com/iIgor2022/ahj_animation_collapse
-![Build status](https://img.shields.io/github/actions/workflow/status/iIgor2022/ahj_animation_collapse/web.yml)
+GitHub Pages https://iigor2022.github.io/ahj_animation_collapse/
+![Build status](https://github.com/iIgor2022/ahj_animation_collapse/actions/workflows/web.yml/badge.svg)](https://github.com/iIgor2022/ahj_animation_collapse/actions/workflows/web.yml)
